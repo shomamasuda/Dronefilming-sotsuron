@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=v6rCj95joZM
 
 
 
-# 相手の案として
+# ドローンを敵とするかアイテムとするかは実際にやってみる
